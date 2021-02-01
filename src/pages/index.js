@@ -20,8 +20,6 @@ const Index = () => {
           </div>
         );
       })}
-
-      <div>sample data from public webservice by chron job</div>
     </div>
   );
 };
